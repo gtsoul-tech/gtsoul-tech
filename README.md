@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/giorgos-tsoulkanakis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gtsoulkanakis@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/giorgos-tsoulkanakis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gtsoulkanakis@gmail.com) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![SIMD Programming(AVX2,SSE4.2,NEON,VSX)](https://img.shields.io/badge/SIMD%20Programming(AVX2%2C%20SSE4.2%2C%20NEON%2C%20VSX)-%2300599C.svg?style=plastic&logo=c&logoColor=white)
